@@ -22,7 +22,7 @@ import Ensecrowd from './Img/Ensecrowd.jpeg'
 import CIL from './Img/CIL.jpeg'
 import Telecom from './Img/Telecom.png'
 import TGD from './Img/TGD.jpeg'
-import Footer from './Components/Footer'
+import Footer from './Components/Footer.jsx'
 
 
 function App() {
